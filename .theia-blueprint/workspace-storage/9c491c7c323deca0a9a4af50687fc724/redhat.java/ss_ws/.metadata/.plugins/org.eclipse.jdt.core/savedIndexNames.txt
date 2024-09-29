@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/home/theia/.theia-blueprint/workspace-storage/9c491c7c323deca0a9a4af50687fc724/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

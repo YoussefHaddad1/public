@@ -1,0 +1,10 @@
+{
+  message: "Use the JDK from 'JAVA_HOME' as the initial default project JDK.",
+  level: 'info',
+  timestamp: '2024-09-29 13:34:44.687'
+}
+{
+  message: 'Starting Java server with: /home/theia/applications/browser/plugins/redhat.java/extension/jre/17.0.7-linux-x86_64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -javaagent:/home/theia/applications/browser/plugins/redhat.java/extension/lombok/lombok-1.18.28.jar -jar /home/theia/applications/browser/plugins/redhat.java/extension/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/theia/.theia-blueprint/globalStorage/redhat.java/1.20.2023061704/config_ss_linux -data /home/theia/.theia-blueprint/workspace-storage/9c491c7c323deca0a9a4af50687fc724/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2024-09-29 13:34:45.914'
+}
